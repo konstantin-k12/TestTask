@@ -1,0 +1,14 @@
+D:\Projects\StringCompression\StringCompression\bin\Debug\net8.0\StringCompression.exe
+D:\Projects\StringCompression\StringCompression\bin\Debug\net8.0\StringCompression.deps.json
+D:\Projects\StringCompression\StringCompression\bin\Debug\net8.0\StringCompression.runtimeconfig.json
+D:\Projects\StringCompression\StringCompression\bin\Debug\net8.0\StringCompression.dll
+D:\Projects\StringCompression\StringCompression\bin\Debug\net8.0\StringCompression.pdb
+D:\Projects\StringCompression\StringCompression\obj\Debug\net8.0\StringCompression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\StringCompression\StringCompression\obj\Debug\net8.0\StringCompression.AssemblyInfoInputs.cache
+D:\Projects\StringCompression\StringCompression\obj\Debug\net8.0\StringCompression.AssemblyInfo.cs
+D:\Projects\StringCompression\StringCompression\obj\Debug\net8.0\StringCompression.csproj.CoreCompileInputs.cache
+D:\Projects\StringCompression\StringCompression\obj\Debug\net8.0\StringCompression.dll
+D:\Projects\StringCompression\StringCompression\obj\Debug\net8.0\refint\StringCompression.dll
+D:\Projects\StringCompression\StringCompression\obj\Debug\net8.0\StringCompression.pdb
+D:\Projects\StringCompression\StringCompression\obj\Debug\net8.0\StringCompression.genruntimeconfig.cache
+D:\Projects\StringCompression\StringCompression\obj\Debug\net8.0\ref\StringCompression.dll

@@ -1,0 +1,14 @@
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\bin\Debug\net8.0\Task 2 ThreadSafeCounter.exe
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\bin\Debug\net8.0\Task 2 ThreadSafeCounter.deps.json
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\bin\Debug\net8.0\Task 2 ThreadSafeCounter.runtimeconfig.json
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\bin\Debug\net8.0\Task 2 ThreadSafeCounter.dll
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\bin\Debug\net8.0\Task 2 ThreadSafeCounter.pdb
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\obj\Debug\net8.0\Task 2 ThreadSafeCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\obj\Debug\net8.0\Task 2 ThreadSafeCounter.AssemblyInfoInputs.cache
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\obj\Debug\net8.0\Task 2 ThreadSafeCounter.AssemblyInfo.cs
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\obj\Debug\net8.0\Task 2 ThreadSafeCounter.csproj.CoreCompileInputs.cache
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\obj\Debug\net8.0\Task 2 ThreadSafeCounter.dll
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\obj\Debug\net8.0\refint\Task 2 ThreadSafeCounter.dll
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\obj\Debug\net8.0\Task 2 ThreadSafeCounter.pdb
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\obj\Debug\net8.0\Task 2 ThreadSafeCounter.genruntimeconfig.cache
+D:\Projects\Task 2 ThreadSafeCounter\Task 2 ThreadSafeCounter\obj\Debug\net8.0\ref\Task 2 ThreadSafeCounter.dll
